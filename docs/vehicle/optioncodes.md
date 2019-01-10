@@ -165,6 +165,7 @@ appreciated!_
 | PX6D | Zero to 60 in 2.5 sec | | 
 | P85D | P85D | | 
 | QNET | Tan NextGen | | 
+| QNLT | Tan NextGen Leather Seats | | 
 | QPMP | Black seats | | 
 | QTBW | White Premium Seats | | 
 | QTFP | Black Premium Seats | | 
